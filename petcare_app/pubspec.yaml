@@ -17,6 +17,9 @@ dependencies:
   http: ^1.2.2
   flutter_dotenv: ^5.2.1
 
+  petcare_app_ui_kit:
+    path: ../ui_kit/petcare_app_ui_kit
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
